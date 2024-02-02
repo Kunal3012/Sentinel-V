@@ -194,3 +194,5 @@ response = requests.post(
 )
 faces = response.json()
 print(faces)
+'''
+MIT License 
